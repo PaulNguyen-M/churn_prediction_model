@@ -80,8 +80,8 @@ Khách hàng được chia thành:
 Dựa trên Recency và Segment:
 
 * VIP → Gặp mặt
-* > 60 ngày → Gọi ngay
-* > 30 ngày → Zalo offer
+* 60 ngày → Gọi ngay
+* 30 ngày → Zalo offer
 
 ---
 
